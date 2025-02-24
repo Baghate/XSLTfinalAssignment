@@ -1,5 +1,5 @@
 # XSLTfinalAssignment
-Repository pour l'évaluation de XSLT TNAH 2 -- 2024-2025
+Repository pour l'évaluation de XSLT TNAH 2 -- 2024-2025 Mathieu Taybi
 
 ## Le projet de ce devoir traite de la correspondance de Raymond Aron avec d'autres universitaires anglo-saxons, membres du comité éditorial de la revue *History & Theory*.
 
