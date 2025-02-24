@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="mygeneratedodd%20(Copy).rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="mygeneratedodd%20(Copy).rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>d'encodage des échanges épistolaires entre érudits
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Mathieu Taybi</authority>
+                <availability> <p>restricted access</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p> 
+                    <idno>Archival reference : NAF 28060 (125) XV</idno> 
+                    <origPlace>BNF Richelieu, Département des Manuscrits</origPlace>
+                    <settlement>Paris</settlement>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                 <head>
+                        <lang>French</lang>
+                        <title>
+                            <affiliation>
+                                
+                            </affiliation>
+                            <persName>
+                                
+                            </persName>
+                        </title>
+                        <address>
+                            <addrLine>
+                                Côte d'Azur
+                            </addrLine>
+                        </address>
+                        <date>
+                            14 avril 1971
+                        </date>
+                    </head>
+                    <opener>
+                        <salute>Cher collègue</salute>
+                    </opener>
+                    <div>
+                        <div>
+                            <p>
+                                <lb/>Je viens par la présente lettre vous remercier de votre invitation à notre récent 
+                                colloque à <placeName>Venise</placeName>. Je vous serais aussi très reconnaissant de bien
+                                de bien vouloir me faire parvenir le nouveau livre sur la connaissance historique
+                                dont vous m'avez parlé, ainsi que le décision qu'on va prendre sur le manuscrit de
+                                <persName>Gellner</persName>. Je prendrai contact d'ici quelque temps avec <persName>Willes</persName>
+                                et <persName>Duby</persName> concernant leurs manuscrits.
+                            </p>
+                            <p>
+                                <lb/>Je me permets d'ajouter quelques remarques tout à fait personnelles, <hi>écrites à la hate</hi>
+                                au sujet de notre colloque. Remarques critiques seulement -- inutile de faire l'éloge d'une réunion
+                                tellement intéressante, profitable et extrêment bien conduite!
+                            </p>
+                            <p>
+                                <lb/>Une certaine part de notre discussion de déroula autour des grandes questions sans mettre au point
+                                les principes en jeu. Serait-il justifié de tirer la conclusion qu'une connaisasnce de <term>l'épistémologie</term>
+                                ou au moins la logique est essentielle pour la <term>méthodologie</term>, que <foreign><term>phronesis</term></foreign>
+                                n'est pas capable de repérer ses principes méthodologiques sur un niveau théorique sans <foreign><term>sophia</term></foreign>
+                                , que l'emploi de termes <sic>come</sic> "particuliers, unicité, prédiction, règles, etc." nous oblige 
+                                à préciser l'univers du discours (soit <term>analytique</term> soit <term>métaphyique</term>) qui borne la légitimité
+                                de ce qu'un orateur veut faire comprendre à un autre? 
+                            </p>
+                            <p>
+                                <lb/>Comme preuve positive, je constate que vos propres interventions ont réduit du discours inutile
+                                par l'emploi implicite du facteur dont je parle. A ce propos, vous demandâtes a <persName>Gellner</persName>
+                                , par exemple, s'il y a une différence distinctive ou seulement une différence méthodologique entre le
+                                récit et la sociologie ; a propos de la soi-disante crise dans l'histoire politique s'il ne s'agit pas
+                                de l'attribution de <foreign>decision-making</foreign> aux individus ou aux forces anonymes; vous mentionnates à
+                                <persName>Wiles</persName> le modèle <term><persName>Hempel </persName>contre<persName>Dray </persName></term>
+                                ; et à propos de <persName>Weber </persName>(je crois), la distinction fondamentale, <term>Popperienne </term>
+                                entre les sciences dont leur but est le particulier et celles qui cherchent les concepts (tandis que les autres
+                                ne parlaient que de différences de tempérament).
+                            </p>
+                            <p>
+                                <lb/>Comme preuve négative, je constate que <persName>Nisbet </persName> ignorait les limites du concept
+                                de l'<term>unicité</term>, celles qui viennent de l'emploi inéluctable de termes généraux (homme, guerre, révolution -- 
+                                leur emploi même dans une phrase affirmant un état d'unicité est forcément comparative, observation élémentaire);
+                                la position de <persName>Gellner </persName> (que l'explication dans le récit n'est qu'une espèce d'explication
+                                sociologique sous-développée) ignorait le concept d'une explication "suffisante" dans le récit; genre particulier
+                                dont sa survivance, malgré tuos les efforts de l'assimitler aux explications en termes de règles, nous indique qu'elle 
+                                suffit logiquement à un but différent de celui de <term>discours sociologique</term> plutôt que les historiens sont 
+                                <term>méthodologiquement arriérés</term>. Sans doute vous avez remarqué des autres positions qui auraient pu 
+                                profiter de la sorte de raisonnement dont son absence je parle.
+                            </p>
+                            <p>
+                                <pb/><lb/>Quant à la futurologie, je trouve l'impression que les historiens ont emporté de notre colloque 
+                                est celle d'une science obsedée par une méthodologie verbale parce que dans sa substance il n'y a que de 
+                                banalités. Impression malheureuse, mais renforcée par l'équivoque de <persName>Bell</persName> -- laissons 
+                                à l'écart le mini-désastre sur la tendance irréversible à la participation. Sa fameuse prédiction d'une 
+                                élection générale en <placeName>Angleterre</placeName>et aux <placeName>USA</placeName> n'a pas du tout 
+                                une signification statistique de 5:1 (en raison de l'existence de 33 pays sur 160 sans élections périodiques)
+                                comme il l'a précisé. On ne fait pas le calcul de la longevité d'un éléphant par faire la moyenne de toutes 
+                                les autres espèces de mammifères. Il faut faire projection de la tendance que l'<placeName>Angeleterre </placeName>
+                                n'a jamais manqué une élection pendant trois siècles et les <placeName>USA </placeName>pendant deux siècles.
+                                Mais calcul fautif est moins grave que modèles fautifs, c.à.d. l'exclusion de facteurs extérieurs, rationnels
+                                et irrationels. Le nombre de travailleurs dans le futur, calculé par rapport aux enfant vivants maintenant,
+                                ne veut rien dire si la moitié d'eux s'adonnerait aux drogues ou si une guerre éclaterait. Il n'est guère étonnant
+                                que les sociologues futurologiques américains aient manqué de prévoir ni la révolte des étudiants de 1968/69
+                                ni le calme de 1970. Je crois cétait vous qui lui a touché un mot sur le rôle de l'imagination dans la futurologie.           
+                            </p>
+                            <p>
+                                <lb/>Il me semblait qu'il y avait un petit défaut dans la présentation de nos plusieurs rapport excellents: un certain
+                                manque d'illustrations ou d'exemples concrets. Je suis tenté de dire que l'on n'a pas assez <term>historié</term>
+                                L'exceptionelle remarque de <persName>Yamamoto</persName>sur la <placeName>Chine</placeName>, reçues avec beaucoup
+                                d'intérêt --confirme la règle. Si un <sic>répresentant</sic> ou <hi><foreign>advocatus diabli</foreign></hi>de 
+                                l'école des <term>Annales</term>, par exemple, avait démontré par des cas spécifiques plusieurs événements
+                                <term>non-événementiels</term>ne découvrirait-on un certain penchant pour l'antiquairisme, le contre-histoire
+                                traditionnelle? Malgré mon admiration profonde pour l'oeuvre de Monsieur <persName>Braudel</persName>
+                                et Monsieur <persName>Ladurie</persName>, je pense que l'idée de la civilisation basée sur la doctrine 
+                                <hi><foreign>maxima e minimims suspendens</foreign></hi>entraine des dangers. Quelques disciples s'ocuppent
+                                tellemtn de la petite histoire -- alimentation, vêtements, contraception, tables, chaises et bien des choses de ce genre -- que je me demande 
+                                s'ils ne démontrent pas, malgré eux, la même aversion pour l'histoire dans le passé que les jeunes en démontrent, 
+                                consciemment, dans le présent ?
+                            </p>                  
+                        </div>
+                    </div> 
+                    <closer>
+                        <signed>Il y a encore beaucoup à réfléchir sur cette stimulante réunion, mais la longueur de ma lettre
+                            ne me permet pas de continuer. Soyez assuré, Cher collègue, de mes sentiments amicalement dévoués.
+                            George H Nadel
+                        </signed>
+                    </closer>
+                    <postscript>
+                        <p>ps:je souhaite avoir le plaisir de vous inviter, si vous avez du temps disponible,
+                            par extraordinaire, lors de votre prochaine venue en Angleterre</p>
+                    </postscript>
+            </div>
+            <div>
+                <head>
+                    <lang>English</lang>
+                    <title>
+                        <affiliation>
+                            History and Theory
+                        </affiliation>
+                        <persName>
+                            Editor : George H Nadel, Executive Editor : Richard T Vann, Associate Editors : Louis O Mink, Richard
+                            Buel, Assistant Editor : Jane K Parker,
+                            Consultant Editor : W H Dray, Editorial Comitee : Raymond Aron, Isaiah Berlin, Fernand Braudel, E H Gombrich,
+                            Sidney Hook, Maurice Mandelbaums, A D Momigliano, John Passmore, W H Waslh, C Vann Woodward
+                            
+                        </persName>
+                    </title>
+                    <address>
+                        <addrLine>
+                            Wesleyan Station, Middletown Connecticut 06457 USA
+                        </addrLine>
+                    </address>
+                    <date>
+                        26th October 1971
+                    </date>
+                </head>
+                    <opener>
+                        <salute>Dear Professor Aron</salute>
+                    </opener>
+                    <div>
+                        <div>
+                            <p>
+                                <lb/>I am writing to you about tentative plans for assembling a small symposium to discuss <hi><term>Historicism</term></hi>
+                                We are at the moment concerned mainly with subject matter. No decisions have yet been made about date, site, nnumers, or foundation
+                                support. <date>Fall 1972</date> or <date>Spring 1973</date> are probable dates. I should greatly appreciate your help, answers,
+                                and comments \-\- including negative comments.
+                            </p>
+                            <p>
+                                <lb/>The overall objectives of the symposium would be any (or all) of the following: (1) To discuss the history of the impact
+                                of <term>historicism</term> on some of the established disciplines. (2) To learn where <term>historicism</term> stands today
+                                . (3) To attemps to reduce the variety of usages of the term <term>"historicism"</term> to some workable characterization and,
+                                as a service to scholarshop, publicize our findings in <hi>History and Theory.</hi>
+                            </p>
+                            <p>
+                                <lb/>It would help in planning to determine what kind or kinds of <term>"historicism"</term> the symposium should usefully
+                                confine itself. This need not be in contradiction to objective (3) ; it could be the first step towards it. For example,
+                                Professor<persName>Mandelbaum</persName> -\-\- at length in his recent History, Man and Reason and more briefly in his 
+                                enclosed Encyclopedia article \-\- defines the term as the undestanding of phenomena through their place in a process 
+                                of <hi>development.</hi> As a <hi>methodological principle</hi>, rather than a <term><foreign>Weltanschauung</foreign></term>
+                                , he sees it to be relevant to such current topics of discussion as <persName>Piaget</persName>'s <term>developmentalism</term>, 
+                                <term>structuralism</term> and as a reevaluation of <term>Marxism</term> (regarding <term>orthodox Marxism</term>as <term>historicist</term>
+                                and <term>Marxian humanism</term>as <term>anti-historicist</term>). Quite different issues might be raised by other kinds of
+                                characterizations, e.g. by <persName>Popper</persName>'s linking of <term>historicism</term> to <term>"holism"</term>(involving
+                                i.a. the concepts of "laws") or by the identification of <term>historicism</term> with a concept of <term>"historicity"</term>of relevance to theology).
+                            </p>
+                            <p>
+                                <lb/><hi>Do you agree that our undertaking requires some prior narrowing down of the term, and if so, have you any wider-ranging
+                                    associations of <term>"historicism</term> in mind that might usefully be played down or excluded?</hi>
+                            </p>
+                            <p>
+                                <lb/>Participating speakers and auditors would mostrly represent specific disciplines.These might include "history" (perhaps a 
+                                sruvey of the classic development of <term>historicism</term>), "historicim and art history", "historicim and philosophy", "historical
+                                theology", "historicim and economics", as wells as, perhaps, "historicism and science" and the more recent "historicism and black history".
+                            </p>
+                            <p>
+                                <lb/><hi>Would you be willing, in principle, to attend? Could you also let me know on what topic you may
+                                    wish to read a paper (or shorter comment on some problem, book, or thinker)?</hi>
+                            </p>               
+                        </div>
+                    </div> 
+                    <closer>
+                        <signed>Sincerly George H Nadel,
+                            George H Nadel,
+                            Warnham Lodge Horsham Sussex England
+                        </signed>
+                    </closer>
+                    <postscript>
+                        <p></p>
+                    </postscript>
+            </div>
+            <div>
+                <head>
+                    <lang>English</lang>
+                    <title>
+                        <affiliation>
+                            History and Theory
+                        </affiliation>
+                        <persName>
+                            Editor : George H Nadel, Executive Editor : Richard T Vann, Associate Editors : Louis O Mink, Richard
+                            Buel, Assistant Editor : Jane K Parker,
+                            Consultant Editor : W H Dray, Editorial Comitee : Raymond Aron, Isaiah Berlin, Fernand Braudel, E H Gombrich,
+                            Sidney Hook, Maurice Mandelbaums, A D Momigliano, John Passmore, W H Waslh, C Vann Woodward
+                        </persName>
+                    </title>
+                    <address>
+                        <addrLine>
+                            Wesleyan Station, Middletown Connecticut 06457 USA
+                        </addrLine>
+                        <addrLine>
+                            EHESS 54 boulevard Raspail 75270 Paris, Cedex 06 France
+                        </addrLine>
+                    </address>
+                    <date>
+                        October 20, 1978
+                    </date>
+                </head>
+                    <opener>
+                        <salute>Dear Professor Aron</salute>
+                    </opener>
+                    <div>
+                        <div>
+                            <p>
+                                <lb/><hi>History and Theory</hi>, in collaboration with <placeName>Wesleyan's Center for the Humanities</placeName>
+                                is planning a small conference for <date>next March</date>, to discuss issues raised in and by <persName>Hayden White</persName>
+                                's book Metahistory: The historical Imagination of Nineteenth century Europe. Although one sees this book
+                                increasingly cited in articles and other books, we believe that is has not received the thorough critical examination which it 
+                                deserves. It is highly original in its application of <term>literary history</term> to the <term>history of historiography </term>
+                                , and radical in its reformulation of <term>historical relativism</term> and other classic issues.
+                            </p>
+                            <p>
+                                <lb/>The conference will be held in <placeName>Middletown</placeName>on <date>March 16th and 17th, 1979</date>
+                                Main papare will be given by <persName>Maurice Mandelbaum</persName> (Philosophy, <placeName>John Hopkins and Dartmouth</placeName>
+                                , <persName>Hans Kellner </persName>(History, <placeName>Michigan State</placeName>), <persName>Paul Hernadi </persName>(Comparative litterature
+                                <placeName>Iowa</placeName>), and <persName>Edward Said</persName> (English, <placeName>Columbia</placeName>). There will be critics
+                                for each paper, and we plan to leave plenty of time for both formal and informal discussion. We plan to limit the conference to forty
+                                participants, from history, literary theory and philosophy.
+                            </p>
+                            <p>
+                                <lb/>We though that as a member of the Editorial Commitee you would like to know about the planning of this conference, and also
+                                to know that of course you are invited if you are interested, in participating. Since the budget for the conference is very low we can't
+                                offer to cover travel expanses, as we would like to do, but if you expect to be in the vicinity of <placeName>Middletown</placeName>
+                                <date>next March</date> in any case, by all means do let us know. We shall also be happy to send copies of the main papers,  at your
+                                request. Naturally we hope that they will later be published in <hi>History and Theory</hi>.
+                            </p>       
+                        </div>
+                    </div> 
+                    <closer>
+                        <signed>Sincerely yours, Richard T Vann
+                        </signed>
+                    </closer>
+                    <postscript>
+                        <p></p>
+                    </postscript>
+            </div>
+        </body>            
+    </text>
+</TEI>    
